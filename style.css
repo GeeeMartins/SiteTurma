@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.cabecalho {
+    background-color: #bfbfc0;
+    color: black;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.cabecalho-imagem {
+    width: 15%;
+    height: 15%;
+    padding: 0 0 0;
+}
+
+.cabecalho-itens {
+    margin: 50px 60px;
+    display: inline-block;
+}
+
+.cesb {
+    background-color: #dfdfe0;
+    color: black;
+    font-size: 24px;
+    padding: 80px 120px;
+}
+
+.alunos {
+    display: flex;
+    justify-content: center;
+    background-color: #dfdfe0;
+    align-items: center;
+    padding: 0px 120px;
+}
+
+.div-alunos {
+    text-align: justify;
+    padding: 24px px;
+    background-color: #dfdfe0;
+}
+
+.imagem-alunos {
+    width: 70%;
+}
+
+.titulo-alunos {
+    padding: 16px 0;
+}
+
+.imagem-rodape {
+    width: 2%;
+    height: 2%;
+}
+
+.rodape {
+    background-color: #bfbfc0;
+    color: black;
+    font-size: 14px;
+    display: flex;
+    padding: 0px 120px;
+}
+
+.imagem-projetos {
+    width: 480px;
+    height: 480px;
+}
+
+.div-projetos1 {
+    text-align: center;
+    padding: 24px 120px px;
+    background-color: #dfdfe0;
+    padding: 0 24px 0;
+}
+
+.projetos {
+    background-color: #dfdfe0;
+    align-items: center;
+    padding: 0px 120px;
+    display: flex;
+}
+
+.projetos-titulo {
+    font-size: 36px;
+    text-align: center;
+    background-color: #dfdfe0;
+}
